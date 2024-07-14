@@ -133,7 +133,8 @@ python-dateutil==2.8.2
 python-docx==1.1.2
 python-Levenshtein==0.25.1
 PyYAML==6.0.1
-pytz<=2024.1
+pytz==2024.1
+pywin32==306
 pyzmq==26.0.3
 rapidfuzz==3.9.4
 referencing==0.35.1
@@ -166,7 +167,7 @@ tenacity==8.3.0
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
 tensorflow==2.16.1
-tensorflow-intel<=2.16.1
+tensorflow-intel==2.16.1
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
 tf_keras==2.16.0
